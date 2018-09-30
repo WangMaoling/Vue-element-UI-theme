@@ -1,0 +1,11 @@
+
+/* 改变主题色变量 element的主题*/
+$--color-primary:#08B3E9;
+/* 自定义主题色变量 修改我们自己写的样式 */
+.primaryColor{
+    background-color: #08B3E9;
+  }
+/* 改变 icon 字体路径变量，必需 */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+
+@import "~element-ui/packages/theme-chalk/src/index";
