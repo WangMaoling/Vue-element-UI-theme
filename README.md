@@ -6,6 +6,8 @@
 ## 演示地址 
 http://ofoyou.com/theme
 
+## 具体操作地址
+https://www.cnblogs.com/wangmaoling/p/9719443.html
 
 ## Build Setup
 
