@@ -2,7 +2,7 @@
   "name": "bms",
   "version": "1.0.0",
   "description": "bms",
-  "author": "王茂领 <maoling@healthcare-inc.com>",
+  "author": "wml",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
