@@ -4,7 +4,7 @@
 
 基于vue,element自定义主题解决方案，可记住主题。
 ## 演示地址 
-http://ofoyou.com/theme
+http://test.ofoyou.com/theme/#/
 
 ## 具体操作地址
 https://www.cnblogs.com/wangmaoling/p/9719443.html
